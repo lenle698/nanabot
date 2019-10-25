@@ -1,0 +1,2 @@
+# nanabot
+bot discord
